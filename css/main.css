@@ -4155,3 +4155,13 @@ article.blog-single .blog-content {
 .other-skills{
     list-style-type: none;
 }
+.project{
+    padding:5%;background: #111111 url("../images/count-bg.jpg");
+    border:2px solid #862121;
+}
+.project  h3{
+    color:#862121
+}
+.masonry__brick:hover{
+    box-shadow: #862121;
+}
